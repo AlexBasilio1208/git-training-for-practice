@@ -17,3 +17,9 @@ git remote add origin https://github.com
 git branch -M main
 git push -u origin main
 ```
+
+### Understanding Branches in Github
+
+```bash
+https://git-school.github.io/visualizing-git/
+```
