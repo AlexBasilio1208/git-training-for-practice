@@ -1,6 +1,6 @@
 # Git Commit Guidelines
 
-Adapted from [How to Write a Git Commit Message](https://beams.io) by Chris Beams.
+Adapted from How to Write a Git Commit Message https://chris.beams.io/git-commit by Chris Beams.
 
 ## The Seven Rules
 1. Separate subject from body with a blank line
